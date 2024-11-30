@@ -2,7 +2,6 @@
 
 # 💼 Sachin Pashte - Business Analyst & Digital Transformation Expert
 
-![Profile Banner](https://github.com/yourusername/repo-name/raw/main/banner.png)
 *Senior Business Analyst with expertise in Digital Transformation, Agile Scrum, and Data Visualization.*
 
 ## 👨‍💼 About Me
