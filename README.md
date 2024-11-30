@@ -1,3 +1,5 @@
+![logo](https://github.com/pashtesachin/BAsachin/blob/main/DALL%C2%B7E%202024-11-30%2015.44.21%20-%20A%20professional%20landscape%20profile%20banner%20for%20a%20Senior%20Business%20Analyst%20showcasing%20expertise%20in%20Business%20Analysis%2C%20Digital%20Transformation%2C%20Agile%20Scrum%2C%20.webp)
+
 # 💼 Sachin Pashte - Business Analyst & Digital Transformation Expert
 
 ![Profile Banner](https://github.com/yourusername/repo-name/raw/main/banner.png)
